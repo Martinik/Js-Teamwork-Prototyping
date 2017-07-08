@@ -2,7 +2,7 @@ Practice prototype of an online ticket store web app - task: 04.Teamwork-Assignm
 
 Collaborators:
 
-  Alexander Leykov - Мартин Николов (SoftUni username: golearnweb) - Focus on implementing design with balsamiq;
-  Martin Nikolov - Александър Лейков (SoftUni username: martinik)- Focus on design and style;
+  Alexander Leykov - Александър Лейков (SoftUni username: golearnweb) - Focus on implementing design with balsamiq;
+  Martin Nikolov - Мартин Николов (SoftUni username: martinik)- Focus on design and style;
   
 Unfortunately, the 3rd person - Пламен Марков	p.markov92@gmail.com has NOT participated in the teamwork
